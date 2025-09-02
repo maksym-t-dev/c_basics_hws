@@ -31,6 +31,7 @@ void print_prime_num(int n)
     // If true
     if (check_prime_nums(n, 2))
         printf("%d is prime\n", n);
+
     // If false and other cases
     else
         printf("%d is not prime\n", n);

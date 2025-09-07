@@ -35,7 +35,7 @@ void print_range(int min, int max)
 
 int main()
 {
-    int min, max;
+    int min, max; // min and max value
 
     // Input
     input_min_value(&min);

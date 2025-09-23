@@ -60,7 +60,6 @@ int main()
         default:
             printf("\nError!\n\n");
             return 1;
-            break;
     }
 
     printf("%.1f + %.1f = %.2f\n\n", a, b, result);
